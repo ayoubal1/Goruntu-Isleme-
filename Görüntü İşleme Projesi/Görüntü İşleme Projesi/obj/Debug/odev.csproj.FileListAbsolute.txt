@@ -1,0 +1,48 @@
+C:\Users\ayoub\source\repos\odev\odev\bin\Debug\odev.exe.config
+C:\Users\ayoub\source\repos\odev\odev\bin\Debug\odev.exe
+C:\Users\ayoub\source\repos\odev\odev\bin\Debug\odev.pdb
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.exe
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.pdb
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Form3.resources
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Form2.resources
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Form4.resources
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Form5.resources
+C:\Users\ayoub\source\repos\odev\odev\obj\Debug\odev.Form6.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\bin\Debug\odev.exe.config
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\bin\Debug\odev.exe
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\bin\Debug\odev.pdb
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.SuggestedBindingRedirects.cache
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form1.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form2.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form3.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form4.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form5.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form6.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Properties.Resources.resources
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.exe
+E:\حاسوب جديدة\desktop\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.pdb
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\bin\Debug\odev.exe.config
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\bin\Debug\odev.exe
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\bin\Debug\odev.pdb
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form2.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form3.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form4.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form5.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form6.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.exe
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.pdb
+C:\Users\AYOOB\OneDrive\Masaüstü\AYOOB ALİ FARHAD 194410825\odev\odev\obj\Debug\odev.Form7.resources
